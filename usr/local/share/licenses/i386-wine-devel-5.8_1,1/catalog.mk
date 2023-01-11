@@ -1,0 +1,13 @@
+_LICENSE=LGPL21 LGPL3
+_LICENSE_COMB=dual
+_LICENSE_NAME=Dual (any of): LGPL21 LGPL3
+_LICENSE_PERMS=dist-mirror dist-sell pkg-mirror pkg-sell auto-accept
+_LICENSE_GROUPS=
+_LICENSE_NAME_LGPL21 =GNU Lesser General Public License version 2.1
+_LICENSE_PERMS_LGPL21 =dist-mirror dist-sell pkg-mirror pkg-sell auto-accept
+_LICENSE_GROUPS_LGPL21 =FSF GPL OSI
+_LICENSE_DISTFILES_LGPL21 =wine-5.8.tar.xz
+_LICENSE_NAME_LGPL3 =GNU Lesser General Public License version 3
+_LICENSE_PERMS_LGPL3 =dist-mirror dist-sell pkg-mirror pkg-sell auto-accept
+_LICENSE_GROUPS_LGPL3 =FSF GPL OSI
+_LICENSE_DISTFILES_LGPL3 =wine-5.8.tar.xz
